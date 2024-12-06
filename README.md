@@ -1,3 +1,5 @@
+2024-12-06
+
 # Google Indexing Script
 
 Use this script to get your entire site indexed on Google in less than 48 hours. No tricks, no hacks, just a simple script and a Google API.
